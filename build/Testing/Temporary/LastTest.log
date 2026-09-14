@@ -1,0 +1,83 @@
+Start testing: Sep 13 23:23 UTC
+----------------------------------------------------------
+1/4 Testing: Student JSON serialization
+1/4 Test: Student JSON serialization
+Command: "/workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build/tests" "Student JSON serialization"
+Directory: /workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build
+"Student JSON serialization" start time: Sep 13 23:23 UTC
+Output:
+----------------------------------------------------------
+Filters: "Student JSON serialization"
+Randomness seeded to: 1573478571
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Student JSON serialization" end time: Sep 13 23:23 UTC
+"Student JSON serialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/4 Testing: Instructor YAML serialization
+2/4 Test: Instructor YAML serialization
+Command: "/workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build/tests" "Instructor YAML serialization"
+Directory: /workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build
+"Instructor YAML serialization" start time: Sep 13 23:23 UTC
+Output:
+----------------------------------------------------------
+Filters: "Instructor YAML serialization"
+Randomness seeded to: 416686371
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Instructor YAML serialization" end time: Sep 13 23:23 UTC
+"Instructor YAML serialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/4 Testing: CSV escaping handles commas and quotes
+3/4 Test: CSV escaping handles commas and quotes
+Command: "/workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build/tests" "CSV escaping handles commas and quotes"
+Directory: /workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build
+"CSV escaping handles commas and quotes" start time: Sep 13 23:23 UTC
+Output:
+----------------------------------------------------------
+Filters: "CSV escaping handles commas and quotes"
+Randomness seeded to: 3435723926
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CSV escaping handles commas and quotes" end time: Sep 13 23:23 UTC
+"CSV escaping handles commas and quotes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/4 Testing: Validation throws on bad email
+4/4 Test: Validation throws on bad email
+Command: "/workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build/tests" "Validation throws on bad email"
+Directory: /workspaces/Lab-1.2-C-Inheritance-Exceptions-Lab/build
+"Validation throws on bad email" start time: Sep 13 23:23 UTC
+Output:
+----------------------------------------------------------
+Filters: "Validation throws on bad email"
+Randomness seeded to: 2527546743
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Validation throws on bad email" end time: Sep 13 23:23 UTC
+"Validation throws on bad email" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 23:23 UTC
